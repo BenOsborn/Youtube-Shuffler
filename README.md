@@ -8,5 +8,6 @@ This app was built one night after I listened to the same song in my Youtube pla
 It is built using Python, Selenium, Tkinter.
 
 # Instructions
-1. Download the "Music-App-Compiled" folder to somewhere accessible
-2. Run the "launchapp.exe" and then follow the instructions
+1. Download or clone the repository to your computer.
+2. Delete everything but the "Music-App-Compiled" folder
+2. In the "Music-App-Compiled" folder run "launchapp.exe" and then follow the instructions.
