@@ -140,5 +140,3 @@ if __name__ == "__main__":
 
     root.mainloop()
     x.close()
-
-# https://www.reddit.com/r/learnpython/comments/4zzn69/how_do_i_get_adblockplus_to_work_with_selenium/
